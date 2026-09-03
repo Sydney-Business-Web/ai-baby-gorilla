@@ -1,5 +1,5 @@
 # AI Baby Gorilla
-![AI Baby Gorilla free one-page schema connection check](ai-baby-gorilla-schema-connection-check.png)
+![AI Baby Gorilla free one-page schema connection check](https://sydneybusinessweb.com.au/wp-content/uploads/2026/09/ai-baby-gorilla-schema-connection-check.png)
 
 **Free one-page JSON-LD entity connection and minimum identity checker**
 
@@ -93,10 +93,15 @@ The production source code, security controls, infrastructure configuration, ass
 
 ## Copyright and rights
 
-Copyright © 2026 Sydney Business Web. All rights reserved.
+Copyright © 2026 Sydney Business Web.
+
+The textual documentation in this repository is licensed under
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+This documentation may be shared unchanged for non-commercial purposes with attribution to Keith Rowley and Sydney Business Web.
+
+The licence does not apply to the AI Baby Gorilla software, source code, proprietary assessment logic, implementation methods, trademarks, branding, mascot artwork or other visual assets.
 
 AI Baby Gorilla, Schema Gorilla, AI Observatory, AI Identity Diagnostic, Intelligent Entity Skeleton and AI Credibility Footprint are proprietary software systems, analysis technologies, services and frameworks developed by Sydney Business Web.
-
-Publication of this documentation does not grant permission to copy, reproduce, reverse engineer, commercially exploit or create derivative implementations of the proprietary system.
 
 Sydney Business Web™ and its logo™ are trademarks of Sydney Business Web, TM Number 2570197.

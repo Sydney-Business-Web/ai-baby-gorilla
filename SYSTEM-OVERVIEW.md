@@ -164,8 +164,10 @@ AI Baby Gorilla examines the entity topology of one public page. Schema Gorilla 
 
 https://sydneybusinessweb.com.au/ai-baby-gorilla/
 
-## Ownership
+## Ownership and documentation licence
 
 AI Baby Gorilla was designed by Keith Rowley and developed by Sydney Business Web.
 
-Copyright © 2026 Sydney Business Web. All rights reserved.
+Copyright © 2026 Sydney Business Web.
+
+This textual system overview is licensed under CC BY-NC-ND 4.0. The underlying software, source code, assessment logic, implementation methods, trademarks and visual assets remain proprietary and are not licensed by this document.

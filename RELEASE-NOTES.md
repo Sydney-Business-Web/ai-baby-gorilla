@@ -75,6 +75,8 @@ The GitHub and Zenodo records contain system-level documentation, citation metad
 
 Production source code, infrastructure configuration, security implementation and proprietary assessment logic are not included.
 
-## Copyright
+## Copyright and rights
 
-Copyright © 2026 Sydney Business Web. All rights reserved.
+Copyright (c) 2026 Sydney Business Web.
+
+These textual release notes are licensed under CC BY-NC-ND 4.0. The underlying software, proprietary assessment logic, implementation methods, trademarks and visual assets remain proprietary.

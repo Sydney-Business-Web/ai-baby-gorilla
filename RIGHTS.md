@@ -1,17 +1,32 @@
-# Copyright and Proprietary Rights
+# Copyright, Documentation Licence and Proprietary Rights
 
-Copyright © 2026 Sydney Business Web. All rights reserved.
+Copyright © 2026 Sydney Business Web.
 
-This repository provides public system-level documentation and an authorship record for AI Baby Gorilla. It does not contain or license the production source code, security controls, infrastructure configuration, assessment logic or operational implementation.
+## Documentation licence
+
+The textual documentation contained in this repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+This permits the documentation to be copied and shared in its unmodified form for non-commercial purposes, provided that Keith Rowley and Sydney Business Web are appropriately attributed.
+
+## Material excluded from the documentation licence
+
+The CC BY-NC-ND 4.0 licence does not apply to:
+
+- the AI Baby Gorilla production software or source code;
+- proprietary assessment logic, algorithms or implementation methods;
+- infrastructure, security controls or operational configuration;
+- Sydney Business Web names, logos and trademarks;
+- mascot artwork, photographs or externally referenced visual assets; or
+- the underlying proprietary systems, services and commercial frameworks.
+
+No production source code is contained in this repository.
 
 AI Baby Gorilla, Schema Gorilla, AI Observatory, AI Identity Diagnostic, Intelligent Entity Skeleton and AI Credibility Footprint are proprietary software systems, analysis technologies, services and frameworks developed by Sydney Business Web.
 
-No permission is granted to copy, reproduce, modify, distribute, reverse engineer, commercially exploit or create derivative implementations of the proprietary systems or their protected documentation except where expressly authorised in writing by Sydney Business Web or permitted by applicable law.
-
-Ordinary linking, factual reference and scholarly citation of the published work are permitted when Sydney Business Web and Keith Rowley are appropriately attributed.
-
 Sydney Business Web™ and its logo™ are trademarks of Sydney Business Web, TM Number 2570197.
 
-For licensing or permissions enquiries:
+For commercial licensing or permissions enquiries:
 
 https://sydneybusinessweb.com.au/contact/

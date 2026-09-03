@@ -4,6 +4,7 @@ title: "AI Baby Gorilla"
 type: software
 version: "0.3.0"
 date-released: "2026-09-03"
+license: "CC-BY-NC-ND-4.0"
 
 authors:
   - family-names: "Rowley"
