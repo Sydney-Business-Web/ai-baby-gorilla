@@ -77,6 +77,8 @@ Production source code, infrastructure configuration, security implementation an
 
 ## Copyright and rights
 
-Copyright (c) 2026 Sydney Business Web.
+## Copyright and rights
 
-These textual release notes are licensed under CC BY-NC-ND 4.0. The underlying software, proprietary assessment logic, implementation methods, trademarks and visual assets remain proprietary.
+Copyright (c) 2026 Sydney Business Web. All rights reserved.
+
+These release notes are publicly available for identification, reference and citation purposes. No licence is granted to copy, modify, redistribute, republish, commercially exploit or create derivative works from the documentation or underlying proprietary system.
