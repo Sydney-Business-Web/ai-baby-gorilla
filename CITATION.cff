@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you reference AI Baby Gorilla, please cite it using this metadata."
+title: "AI Baby Gorilla"
+type: software
+version: "0.3.0"
+date-released: "2026-09-03"
+
+authors:
+  - family-names: "Rowley"
+    given-names: "Keith"
+    affiliation: "Sydney Business Web"
+
+abstract: >-
+  AI Baby Gorilla is a free one-page JSON-LD entity connection and
+  minimum identity checker developed by Sydney Business Web. It examines
+  whether structured entities on a public webpage form a coherent
+  machine-readable identity graph and reports missing, fragmented or
+  isolated identity signals.
+
+keywords:
+  - "JSON-LD"
+  - "Schema.org"
+  - "entity graph"
+  - "structured data"
+  - "machine-readable identity"
+  - "AI visibility"
+
+url: "https://sydneybusinessweb.com.au/ai-baby-gorilla/"
+repository: "https://github.com/Sydney-Business-Web/ai-baby-gorilla"
