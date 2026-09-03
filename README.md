@@ -1,4 +1,5 @@
 # AI Baby Gorilla
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22275747.svg)](https://doi.org/10.5281/zenodo.22275747)
 ![AI Baby Gorilla free one-page schema connection check](https://sydneybusinessweb.com.au/wp-content/uploads/2026/09/ai-baby-gorilla-schema-connection-check.png)
 
 **Free one-page JSON-LD entity connection and minimum identity checker**
