@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you reference AI Baby Gorilla, please cite it using this metadata."
 title: "AI Baby Gorilla"
 type: software
-version: "0.3.0"
+version: "0.3.0-docs.1"
 date-released: "2026-09-03"
 
 

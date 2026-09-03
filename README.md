@@ -69,7 +69,8 @@ Automated abuse controls and bounded retrieval safeguards are used to protect th
 
 ## Current release
 
-**Version:** 0.3.0  
+**Production system version:** 0.3.0  
+**Documentation revision:** 0.3.0-docs.1
 **Release date:** 3 September 2026  
 **Developer:** Sydney Business Web  
 **Principal designer:** Keith Rowley

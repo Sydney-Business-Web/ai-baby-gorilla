@@ -5,6 +5,12 @@
 **Developer:** Sydney Business Web  
 **Principal designer:** Keith Rowley
 
+## Documentation revision 0.3.0-docs.1
+
+This documentation revision removes the previously applied Creative Commons documentation licence and confirms that the public documentation and underlying proprietary system are All Rights Reserved.
+
+No production software, assessment logic or operational implementation changed in this revision.
+
 ## Release summary
 
 Version 0.3.0 is the first formally documented public production release of AI Baby Gorilla.
